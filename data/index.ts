@@ -25,6 +25,7 @@ export const navItems = [
     {
       id: 2,
       img: "/discord.svg",
+      link: "https://discord.com/channels/@me"
     },
     {
       id: 3,
