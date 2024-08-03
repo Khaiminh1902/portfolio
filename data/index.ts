@@ -14,6 +14,14 @@ export const navItems = [
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "https://prattshub.vercel.app/",
     },
+    {
+      id: 2,
+      title: "LiveDocs",
+      des: "Simplify document creation with LiveDocs. Effortlessly collaborate and share with ease.",
+      img: "/livedocs.png",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/liveblocks.svg", "/c.svg"],
+      link: "https://prattshub.vercel.app/",
+    },
   ];
 
   export const socialMedia = [
