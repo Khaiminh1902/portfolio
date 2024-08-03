@@ -20,7 +20,7 @@ export const navItems = [
       des: "Simplify document creation with LiveDocs. Effortlessly collaborate and share with ease.",
       img: "/livedocs.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/liveblocks.svg", "/c.svg"],
-      link: "https://prattshub.vercel.app/",
+      link: "https://livedocs-three.vercel.app/",
     },
   ];
 
