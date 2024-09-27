@@ -22,14 +22,6 @@ export const navItems = [
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/liveblocks.svg", "/c.svg"],
       link: "https://livedocs-three.vercel.app/",
     },
-    {
-      id: 3,
-      title: "Xora",
-      des: "Introducing XORA AI Video Editor: Your effortless path to stunning visuals",
-      img: "/xora.png",
-      iconLists: ["/vite.png", "/tail.svg", "/javascript.png"],
-      link: "https://livedocs-three.vercel.app/",
-    },
   ];
 
   export const socialMedia = [
